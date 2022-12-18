@@ -1,0 +1,8 @@
+[[03. Cursos/DevOps/03. Terraform e Ansible/01. Introdução]]
+[[02. Instalações]]
+[[03. Terraform]]
+[[04. Versionar]]
+[[05. Automatizando processos]]
+[[06. Ansible]]
+[[07. Guia de comandos]]
+[[08. Exemplo prático]]

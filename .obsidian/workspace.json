@@ -1,0 +1,147 @@
+{
+  "main": {
+    "id": "4dc49067da2ddd42",
+    "type": "split",
+    "children": [
+      {
+        "id": "5f26fe1cb9459917",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3a812a850aa68111",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f3da5c6864fc632e",
+    "type": "split",
+    "children": [
+      {
+        "id": "99dfa1b6738e892a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "759301605a55f819",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "06554a23413451ae",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "694ad23422770e19",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 372.5110321044922
+  },
+  "right": {
+    "id": "9c0e4b046f1de3c0",
+    "type": "split",
+    "children": [
+      {
+        "id": "232eda4452daab9d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "88d76a0d0e40087a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "f5782123f2af6a0b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "cb4796c5bad0a7d4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "393e405c4569d925",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "3a812a850aa68111",
+  "lastOpenFiles": [
+    "03. Cursos/DevOps/01. Conceitos/Infraestrutura como código (IaC).md",
+    "03. Cursos/DevOps/01. Conceitos/Cloud Computing.md",
+    "01. Indices/Cursos/Devops/Conceitos.md",
+    "01. Indices/Cursos/Devops/DevOps.md",
+    "01. Indices/Notas.md",
+    "03. Cursos/DevOps/01. Conceitos/Serverless.md",
+    "03. Cursos/DevOps/01. Conceitos/Observabilidade.md",
+    "Readme.md",
+    "03. Cursos/Readme.md",
+    "01. Indices/Pessoal.md"
+  ]
+}
